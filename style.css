@@ -1,0 +1,34 @@
+body {
+    margin: 0px;
+}
+div {
+    background-color: rgb(152, 177, 224);
+    width: 300px;
+    height: 60px;
+    position: fixed;
+    left:-70px;
+    top:50px;
+    transform: rotate(-45deg);
+    box-shadow: 1px 1px 20px rgb(151, 162, 167);
+    
+    outline: 1px solid rgb(170, 199, 238);
+    outline-offset: -7px;
+}
+
+.aviso {
+    font-size: 18px;
+    text-shadow: 1px 1px 8px black;
+    text-align: center;
+    line-height:55px; 
+    
+     
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    
+      
+    
+}
